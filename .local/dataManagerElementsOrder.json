@@ -1,0 +1,36 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Extract데이터 테이블&Sequence_45",
+        "Dt_ACME&Sequence_43",
+        "Extract데이터 테이블&Sequence_42",
+        "Dbl_Dollar&Sequence_36",
+        "Str_Dollar3&Sequence_36",
+        "Str_Dt_Dollar2&Sequence_31",
+        "Dt_Dollar2&Sequence_31",
+        "Extract데이터 테이블&Sequence_30",
+        "Str_Text&Sequence_29",
+        "Str_Value&Sequence_2",
+        "Str_Dt_Dollar&Sequence_20",
+        "Dt_Dollar&Sequence_2",
+        "Extract데이터 테이블&Sequence_20",
+        "Str_Dollar&Sequence_19",
+        "Td&Sequence_18"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
